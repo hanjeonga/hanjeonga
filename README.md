@@ -1,10 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=Venom&color=gradient&height=300&section=header&text=JeongA%20Github&fontSize=90)
-
+![header](https://capsule-render.vercel.app/api?type=Venom&color=gradient&height=300&section=header&text=JeongA%20Portfolio&fontSize=90)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=깃허브 아이디)](https://github.com/anuraghazra/github-readme-stats)
 ### Jeong-A Han LinkedIn -> [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EC%A0%95%EC%95%84-jeonga-%ED%95%9C-han-08a762227/)](https://www.linkedin.com/in/%EC%A0%95%EC%95%84-jeonga-%ED%95%9C-han-08a762227/)
 
 
 
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" />
 <!--
 **hanjeonga/hanjeonga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
