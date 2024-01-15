@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Venom&color=gradient&height=300&section=header&text=JeongA%20Portfolio&fontSize=90)
 ## Front-End Engineer
 - with a little bit of backend
+- skill : React, JS, TS, HTML, CSS, Electron, AWS, Python, Node.js, MongoDB ...
 ## Jeong-A Han LinkedIn -> [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EC%A0%95%EC%95%84-jeonga-%ED%95%9C-han-08a762227/)](https://www.linkedin.com/in/%EC%A0%95%EC%95%84-jeonga-%ED%95%9C-han-08a762227/)
 
 ## My Velog
