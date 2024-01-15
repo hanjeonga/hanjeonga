@@ -1,7 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=Venom&color=gradient&height=300&section=header&text=JeongA%20Portfolio&fontSize=90)
-### Jeong-A Han LinkedIn -> [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EC%A0%95%EC%95%84-jeonga-%ED%95%9C-han-08a762227/)](https://www.linkedin.com/in/%EC%A0%95%EC%95%84-jeonga-%ED%95%9C-han-08a762227/)
+## Front-End Engineer
+- with a little bit of backend
+## Jeong-A Han LinkedIn -> [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EC%A0%95%EC%95%84-jeonga-%ED%95%9C-han-08a762227/)](https://www.linkedin.com/in/%EC%A0%95%EC%95%84-jeonga-%ED%95%9C-han-08a762227/)
 
-###My Velog
+## My Velog
 <br/>[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=mongndam)](https://velog.io/@mongndam/posts)
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" />
 <!--
