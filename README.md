@@ -1,9 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=Venom&color=gradient&height=300&section=header&text=JeongA%20Portfolio&fontSize=90)
 ### Jeong-A Han LinkedIn -> [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EC%A0%95%EC%95%84-jeonga-%ED%95%9C-han-08a762227/)](https://www.linkedin.com/in/%EC%A0%95%EC%95%84-jeonga-%ED%95%9C-han-08a762227/)
 
-###My Velog
+###My Velog \n
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=mongndam)](https://velog.io/@mongndam/posts)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanjeonga&hide=contribs,prs&show_icons=true&theme=테마)
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" />
 <!--
 **hanjeonga/hanjeonga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
