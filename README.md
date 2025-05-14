@@ -4,6 +4,7 @@
 - skill : React, JS, TS, HTML, CSS, Electron, AWS, Python, Node.js, MongoDB ...
 
 ## Project
+- 포트폴리오 웹 사이트 : [RESUMAC](https://portfolio-theta-wine-87.vercel.app/)
 - 회사 홈페이지 보수 : [DEEPMEDI](http://deep-medi.com/)
 - 건강 데이터 관리 대시보드 개발
 - 웹캠을 통한 실시간 이미지 데이터 수집 및 분석 웹앱 프로그램 개발
