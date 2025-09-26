@@ -5,8 +5,9 @@
 
 ## Project
 - 포트폴리오 웹 사이트 : [RESUMAC](https://portfolio-theta-wine-87.vercel.app/)
-- 회사 홈페이지 보수 : [DEEPMEDI](http://deep-medi.com/)
+  
 - 건강 데이터 관리 대시보드 개발 : [CareUP](https://careup.deep-medi.com/)
+- 회사 홈페이지 보수 : [DEEPMEDI](http://deep-medi.com/)
 - 웹캠을 통한 실시간 이미지 데이터 수집 및 분석 웹앱 프로그램 개발
 - 은둔 청년을 위한 걷기 솔루션 프로그램 개발(풀스택으로 참여) : [MINDWALK](https://github.com/MIND-WALK)
 - 제타플랜 기업 홈페이지 UIUX기획 및 개발(팀 리더) : [github](https://github.com/hanjeonga/ZetaPlan_TeamProject)
