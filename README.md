@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Venom&color=gradient&height=300&section=header&text=JeongA%20Portfolio&fontSize=90)
 ## Front-End Engineer
 - with a little bit of backend
-- skill : React, JS, TS, HTML, CSS, Electron, AWS, Python, Node.js, MongoDB ...
+- skill : React, Next, JS, TS, HTML, CSS, Electron, Styled-Componenet, Tailwind-CSS, Vanilla-extract, Recoil, AWS, Python, Node.js, MongoDB ...
 
 ## Project
 - 포트폴리오 웹 사이트 : [RESUMAC](https://portfolio-theta-wine-87.vercel.app/)
